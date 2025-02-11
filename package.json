@@ -14,13 +14,5 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/IvanDex223/js-array.git"
-  },
-  "bugs": {
-    "url": "https://github.com/IvanDex223/js-array/issues"
-  },
-  "homepage": "https://github.com/IvanDex223/js-array#readme"
+  }
 }
